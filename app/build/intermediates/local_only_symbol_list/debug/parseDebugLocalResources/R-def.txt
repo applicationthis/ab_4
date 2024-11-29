@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id addButton
+id editText
+id listView
+id textView
+id toolbar
+id urgentSwitch
+layout activity_main
+layout todo_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string add
+string app_name
+string delete_message
+string delete_title
+string no
+string type_here
+string urgent
+string yes
+style Base.Theme.AB4_TODO
+style Theme.AB4_TODO
+xml backup_rules
+xml data_extraction_rules
